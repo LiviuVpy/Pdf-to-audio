@@ -31,3 +31,5 @@ The App uses the following libraries:
 - requests
 - dotenv
 - PyPDF2
+- tkinter
+- os
